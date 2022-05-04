@@ -10,5 +10,8 @@
 1. Integrate MongoDB to save pictures/persistent volume
 2. Deploy code on AWS
 
+## Screenshots
+<img src="./screenshots/home.PNG/" width='300'> <img src="./screenshots/website.PNG/" width='300'>
+
 
 
