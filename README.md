@@ -11,7 +11,7 @@
 2. Deploy code on AWS
 
 ## Screenshots
-<img src="./screenshots/home.PNG/" width='400'> <img src="./screenshots/website.PNG/" width='400'>
+<img src="./screenshots/home.PNG/" width='500'> <img src="./screenshots/website.PNG/" width='500'>
 
 
 
